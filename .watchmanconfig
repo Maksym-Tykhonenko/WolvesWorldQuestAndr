@@ -1,0 +1,4 @@
+{
+    "enforce_root_files": false,
+    "root_files": [".git", ".hg", ".svn", ".watchmanconfig"]
+}
